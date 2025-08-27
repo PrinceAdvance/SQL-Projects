@@ -1,8 +1,0 @@
-order_id,customer_id,order_date,product,category,quantity,price_per_unit
-101,C001,2024-01-05,Laptop,Electronics,1,800
-102,C002,2024-01-06,Phone,Electronics,2,500
-103,C003,2024-01-07,Desk Chair,Furniture,1,150
-104,C001,2024-01-08,Monitor,Electronics,2,200
-105,C002,2024-01-08,Table,Furniture,1,300
-106,C004,2024-01-09,Laptop,Electronics,1,800
-107,C003,2024-01-10,Phone,Electronics,1,500
