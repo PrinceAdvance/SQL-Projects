@@ -389,7 +389,3 @@ After completing these exercises, you'll have practiced:
 ## 📝 Contributing
 
 Feel free to submit additional practice problems or improvements to existing queries via pull requests!
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
